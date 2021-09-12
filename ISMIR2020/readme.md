@@ -1,6 +1,6 @@
 # ISMIR 2020
 
-This repo contains the code in a jupyter notebook to reproduce all of the analyses of the ISMIR 2020 paper:
+This repo contains the code in a jupyter notebook to reproduce all the analysis of the ISMIR 2020 paper:
 
 Cano, E., Mora-Ángel, F., Gil, G. A. L., Zapata, J. R., Escamilla, A., Alzate, J. F., & Betancur, M. (2020). 
 **Sesquialtera in the colombian bambuco: Perception and estimation of beat and meter**. In Proc. Int. Soc. Music Inf. 
