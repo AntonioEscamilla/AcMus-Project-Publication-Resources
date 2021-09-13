@@ -1,7 +1,7 @@
 # TISMIR 2021
 This repo contains the code in a jupyter notebook to reproduce all the analysis of the TISMIR 2021 paper
 
-## **Sesquialtera in the Colombian Bambuco: Perceptionand Estimation of Beat and Meter**
+## **Sesquialtera in the Colombian Bambuco: Perception and Estimation of Beat and Meter**
 
 ## Abstract
 Bambuco, one of the national rhythms of Colombia, is characterized by the presence of sesquialteras or the superposition 
