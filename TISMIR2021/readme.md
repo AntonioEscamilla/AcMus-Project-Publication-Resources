@@ -1,2 +1,4 @@
-# AcMus-Project-Publication-Resources
-Resources for the reproducibility of results in the Acmus-Project publications
+# TISMIR 2021
+This repo contains the code in a jupyter notebook to reproduce all the analysis of the TISMIR 2021 paper
+
+
